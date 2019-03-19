@@ -31,7 +31,7 @@ File: Layout CSS
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:150px 0 150px;}
+#pageintro{padding:100px 0 100px;}
 
 #pageintro article{max-width:65%; margin:0 auto; text-align:center;}
 #pageintro article *{text-transform:uppercase;}
