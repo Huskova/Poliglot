@@ -16,8 +16,8 @@
 	#mainav{}
 	#mainav ul{display:none;}
 	#mainav form{display:block;}
-
-	#breadcrumb{}
+	.top {flex-wrap: wrap;}
+	.top > div, .top > nav {display: block; width: 100%; margin-bottom: 10px;}
 
 	.container, article.hoc.cta.clear, #footer{padding: 30px 15px;}
 	#comments input[type="reset"]{margin-top:10px;}
