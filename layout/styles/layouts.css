@@ -9,9 +9,7 @@
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
-#header{}
-
-#header #logo{}
+.header-price {margin-top: 30px;}
 #header #logo h1{margin:0; padding:0; font-size:22px;}
 .logo-img {height: 50px;}
 .top {display: flex; justify-content: space-around;align-items: center;}
